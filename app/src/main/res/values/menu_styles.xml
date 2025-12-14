@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom Toolbar theme -->
+    <style name="CustomToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Change overflow icon color -->
+        <item name="colorControlNormal">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+
+        <!-- Change menu text color -->
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="android:actionMenuTextColor">@color/off_white</item>
+
+        <!-- Change toolbar title color -->
+        <item name="android:textColorPrimary">@color/white</item>
+
+        <!-- Change toolbar background -->
+        <item name="android:background">@color/navy_blue</item>
+    </style>
+</resources>

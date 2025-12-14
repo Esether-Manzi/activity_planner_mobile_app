@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App theme -->
+    <color name="navy_blue">#194a7a</color>
+    <color name="blue">#465C88</color>
+    <color name="orange">#FF851B</color>
+    <color name="bold_orange">#FF7A30</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="off_white">#E9E3DF</color>
+
+    <!-- Priority indicators -->
+    <color name="priority_high_red">#FF4136</color>
+    <color name="priority_medium_orange">#FF851B</color>
+    <color name="priority_low_light_blue">#7FDBFF</color>
+</resources>
+
